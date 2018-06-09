@@ -25,7 +25,7 @@ SECRET_KEY = 'zc@j8oh!7x94=6o(zfm2*yx$3+nr0)r1ll&su$s%el9=d@m)ep'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ASUS.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ASUS.pythonanywhere.com','vanessatorres18.pythonanywhere.com']
 
 
 # Application definition
